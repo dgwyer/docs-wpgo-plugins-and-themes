@@ -2,7 +2,8 @@
 
 # Plugins
 
-## [Flexible FAQs]()
+## [Flexible FAQs](/plugins/flexible/faqs)
+## [Simple Sitemap]()
 
 # Themes
 
