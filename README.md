@@ -1,4 +1,6 @@
-# Documentation for all WPGO Plugins and Themes
+# WPGO Plugins and Themes Documentation
+
+This repository contains the documentation for all WPGO plugins and themes.
 
 # Plugins
 
