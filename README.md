@@ -2,8 +2,8 @@
 
 # Plugins
 
-## [Flexible FAQs](./plugins/flexible/faqs)
-## [Simple Sitemap]()
+## [Flexible FAQs](https://github.com/dgwyer/docs-wpgo-plugins-and-themes/tree/main/plugins/flexible-faqs)
+## [Simple Sitemap](https://github.com/dgwyer/docs-wpgo-plugins-and-themes/tree/main/plugins/simple-sitemap)
 
 # Themes
 
