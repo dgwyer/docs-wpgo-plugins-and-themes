@@ -9,4 +9,6 @@
 
 # Notes
 
-The default branch for this repository is `main` to prevent search engines from indexing duplicate content as the documentation will be published on wpgoplugins.com and other sites.
+The default branch for this repository is `main` to prevent search engines from indexing duplicate content, as the documentation will be published on wpgoplugins.com and other sites.
+
+This repository is used to edit documentation and to accept additions and corrections from users. Please open an issue and/or submit a pull request if you'd like to contribute.
